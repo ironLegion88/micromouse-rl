@@ -1,1 +1,1 @@
-# micromouse-rl
+Reinforcement Learning for Micromouse Maze Solving
